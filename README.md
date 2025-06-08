@@ -51,6 +51,15 @@
 </div>
 
 2. 结果分析(Which **Gender** take more caffeine?)
+
+<table>
+  <tr>
+    <td colspan="3" align="center">
+      <iframe src="./性别咖啡因摄入柱状图.html" width="300" height="200" frameborder="0"></iframe>
+    </td>
+  </tr>
+</table>
+
 3. 结果分析(**Disturbution of University Year** \& **Gender**)
 
 ## 模型训练
@@ -65,6 +74,15 @@
 1. 结果分析()
 2. 通过计算轮廓系数(Silhouette Score)确定 K-Means 聚类的最佳簇数(K值)
 3. 通过计算轮廓系数(Silhouette Score)评估不同簇数(K值)下的K-means聚类效果
+
+<table>
+  <tr>
+    <td colspan="3" align="center">
+      <iframe src="./轮廓系数柱状图.html" width="300" height="200" frameborder="0"></iframe>
+    </td>
+  </tr>
+</table>
+
 4. 使用 K-Means 对数据进行聚类分析
 5. 输出 K-Means 聚类模型的SSE(Sum of Squared Errors, 误差平方和)以评估聚类效果
 6. 计算并输出 K-Means 聚类效果的轮廓系数(Silhouette Score)以评估聚类效果的质量
