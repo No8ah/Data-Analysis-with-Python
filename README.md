@@ -21,13 +21,35 @@
 
 </div>
 
-3. 读取.CSV文件
-4. 去除多余信息
-5. 提取关键信息
+2. 读取.CSV文件
+3. 去除多余信息
+4. 提取关键信息
 
 ## 初步结果分析
 
 1. 结果分析(Sleep Quality with **Columns**)
+
+  <div align="center">
+
+<!-- 第一行：3个并排的HTML文件 -->
+<table>
+  <tr>
+    <td><iframe src="./sleep_quality_by_Age.html" width="300" height="200" frameborder="0"></iframe></td>
+    <td><iframe src="./sleep_quality_by_Gender.html" width="300" height="200" frameborder="0"></iframe></td>
+    <td><iframe src="./sleep_quality_by_University_Year.html" width="300" height="200" frameborder="0"></iframe></td>
+  </tr>
+</table>
+
+<!-- 第二行：2个并排的HTML文件 -->
+<table>
+  <tr>
+    <td><iframe src="./sleep_quality_by_Screen_Time.html" width="300" height="200" frameborder="0"></iframe></td>
+    <td><iframe src="./sleep_quality_by_Caffeine_Intake.html" width="300" height="200" frameborder="0"></iframe></td>
+  </tr>
+</table>
+
+</div>
+
 2. 结果分析(Which **Gender** take more caffeine?)
 3. 结果分析(**Disturbution of University Year** \& **Gender**)
 
